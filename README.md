@@ -6,3 +6,5 @@ Tein alunperin backend toteutuksen, mutta visuaalinen puoli kärsi ja se olisi o
 Tämän takia finelin apin tietojen haku ei mennyt sen itse apin kautta, vaikka sainkin sen server toteutuksessa toimimaan, vaan json tiedostosta.
 Ruokataistelun pelimekaaniikat eivät ole mitenkään häikäisevät, aika perus attack/defence * taikaluku + taikaluku enkä tehnyt mitään erityisempää satunnaisuutta.
 Blazor auttoi hieman lopputuloksien ilmoittamisessa sillä html sekaan pystyi laittamaan foreachia sun muuta.
+
+Jos Solidabiksella nyt sattuisi olemaan työpaikkoja tarjolla niin olisin ehdottomasti kiinnostunut.
